@@ -1,0 +1,22 @@
+.fail{
+    color:red;
+}
+
+.heighest{
+    color:#27e727;
+}
+
+table,td{
+    border: 1px solid black;
+}
+
+th{
+    border: 1px solid black;
+    font-style: italic;
+   
+}
+.head{
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
